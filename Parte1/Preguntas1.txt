@@ -8,4 +8,4 @@ git remote add origin https://github.com/(tu-username)/(nombre-repositorio).git
 Y si queremos actualizar nuestro repositorio con nueva información deberiamos
 usar un 'push', que sería el siguiente comando
 
-git push -u origin master 
+git push -u origin main

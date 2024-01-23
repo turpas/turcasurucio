@@ -1,0 +1,12 @@
+¿Qué es el fichero .gitignore?
+
+Un archivo .gitignore es un archivo el cual podemos modificar y dar ordenes a
+git sobre que archivos no tiene que seguir, por ejemplo si escribimos dentro 
+de ignorar.gitignore
+
+"# Ignorar archivos .odt
+ .odt "
+
+Y si tenemos algun archivo .java y hacemos un push, este no se subirá 
+al repositorio remoto, es decir, el repositorio remoto lo ignora,en estos 
+tipos de archivos suele guardarse cosas privadas del proyecto.
