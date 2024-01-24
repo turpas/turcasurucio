@@ -1,0 +1,9 @@
+¿Podemos añadir seguridad de alguna forma a nuestro repositorio remoto?
+
+Hay varios maneras para añadir seguridad a nuestro repositorio remoto, el
+primero sería cambiar el protócolo de transporte SSH a HTTPS, esto haría que
+cada vez que quieras hacer un pull o un push del proyecto, se te pedirá 
+tu nombre de usuario y contraseña, otras maneras sería poner el proyecto 
+privado si quieres que nadie mire el proyecto, también se le añade seguridad
+con el uso de un token de acceso personal con permisos específicas, esto se
+puede usar en vez de la contraseña para agregar así mas seguridad
