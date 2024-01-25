@@ -1,9 +1,0 @@
-Creación de ramas. Recuerda que en la rama master/main sólo debería existir
-la versión acabada del producto.
-
-Para la creación de una rama sería con el comanodo
-
-git branch (nombre de la rama que será creada)
-
-Y si, en este proyecto se realizará por cada parte, que son 3, un merge a la 
-rama main para que todo el proyecto se encuentre allí
