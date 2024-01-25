@@ -1,0 +1,11 @@
+¿Cómo podríamos trabajar varias personas en el mismo proyecto?
+
+Primero hay que crear un nuevo repositorio en GitHub para nuestro proyecto,
+después de eso, invitamos a los demas participantes del proyecto que serían los
+colaboradores en GitHub, a continuación, los colaboradores deberán hacer git
+clone del proyecto para tenerlo en local, cuando un colaborador esta listo para
+hacer cambios en el proyecto, tendrá que hacer un git push y para que los demás
+puedan ver la actualización del proyecto deberán hacer un git pull desde su
+repositorio local.
+Cuando se vea que el proyecto va bien, simplemente se tendría que hacer un
+merge para así juntar el trabajo grupal en uno sola rama.
