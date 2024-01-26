@@ -9,4 +9,4 @@ de ignorar.gitignore
 
 Y si tenemos algun archivo .java y hacemos un push, este no se subirá 
 al repositorio remoto, es decir, el repositorio remoto lo ignora,en estos 
-tipos de archivos suele guardarse cosas privadas del proyecto.
+tipos de archivos suele guardarse cosas privadas del proyecto

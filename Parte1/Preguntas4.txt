@@ -2,7 +2,7 @@
 
 Una licencia es un tipo de documento con una serie de términos y condiciones 
 que ofrece el propietario del programa a la persona o empresa que 
-desea el uso de dicho programa, y tiene como utilidad mostrar al cliente los
+desea el uso de dicho programa y tiene como utilidad mostrar al cliente los
 permisos que puede hacer con el programa del propietario, por ejemplo, la
 posibilidad de distribuir, usar o modificar el producto, obviamente todo
 esto bajo una licencia determinada.

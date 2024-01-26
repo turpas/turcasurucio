@@ -13,6 +13,6 @@ git remote add origin git@github.com:(el-username)/(nombre-repositorio).git
 Y la tercera forma sería con git pull, si han habido cambios en el repositorio
 remoto los cuales aun no tienes en tu repositorio local(trabajo grupal
 por ejemplo) puedes hacer un git pull para actualizar tu repositorio local con
-el nuevo contenido
+el nuevo contenido.
 
 git pull origin main

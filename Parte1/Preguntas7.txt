@@ -5,6 +5,6 @@ seguimiento, a estos se les hará un commit, asi que primero sería
 
 git add (archivo-seguimiento)
 
-Después de realizar dicha acción ya se podría hacer un commit
+Después de realizar dicha acción ya se podría hacer un commit.
 
 git commit -m "(Una breve descripción del commit)"

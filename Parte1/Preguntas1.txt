@@ -1,7 +1,7 @@
 ¿Cómo podemos crear un repositorio remoto?
 
 Primero tenemos que crear un repositorio local, despues de eso para realizar
-un repositorio remoto hay que escribir el siguiente comando
+un repositorio remoto hay que escribir el siguiente comando.
 
 git remote add origin https://github.com/(tu-username)/(nombre-repositorio).git
 
