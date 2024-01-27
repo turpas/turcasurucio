@@ -1,5 +1,0 @@
-Resolución de conflictos en un merge
-
-Si existe algún problema en el merge, es decir, el contenido no se traspasa 
-a la rama la cual haces merge, en ese caso tendrías que hacer un "merge manual"
-tendrías que filtrar y pasar los archivos uno por uno hacia la otra rama

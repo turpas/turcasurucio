@@ -1,5 +1,0 @@
-¿Qué es una Pull Request? ¿Cómo podriamos realizar una? ¿Qué utilidad tiene?
-Es una función de GitHub la cuál realiza una revisión de los cambios antes de fusionarlos con la rama "main" o principal.
-Podemos utilizarlo con el botón "Pull request" desde GitHub, pero este solo aparecerá cuando hayas hecho un commit en alguna rama y un push a GitHub, así 
-podremos asegurarnos de que los cambios son coherentes antes de fusionarlos con la rama main.
-Además, la opción "Pull Request" enviará un aviso a todos los colaboradores para que estos hagan un "git pull" en su repositorio local.

@@ -1,7 +1,0 @@
-¿Cada cuanto hay que realizar un commit?
-
-Como tal no hay un tiempo predeterminado de cada cuanto hay que hacer un commit
-pero si se sabe que los commits se tienen que realizar tras hacer algún cambio
-relevante, además estos commits se recomiendan que deben estar relacionados
-para facilitar el trabajo del proyecto, es decir, no se debería hacer por cada
-cambio random que hayas hecho

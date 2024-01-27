@@ -1,5 +1,0 @@
-Pon ejemplos de conflictos que te hayan surgido durante la resolución
-de este proyecto.
-Hubo un problema, hemos realizado un mal uso del merge, lo cual provoco que todas las ramas creadas tengan el contenido de la rama main despues del merge, el fallo fue hacer un merge de la Parte1
- a la rama main, y después de eso crear una nueva rama desde la main, esto hizo que la Parte2 tenga el contenido de la Parte1 por culpa del main, y nos hemos dado cuenta tarde, asi que hemos
- decidido solucionarlo manualmente, y casi reiniciando el trabajo primero eliminando las ramas.
